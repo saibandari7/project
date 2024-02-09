@@ -31,15 +31,8 @@ After running the application, follow the on-screen prompts to interact with the
 Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-Fork the Project
-Create your Feature Branch (git checkout -b feature/AmazingFeature)
-Commit your Changes (git commit -m 'Add some AmazingFeature')
-Push to the Branch (git push origin feature/AmazingFeature)
-Open a Pull Request
-License
-Distributed under the MIT License. See LICENSE for more information.
 
 Contact
 Your Name - Sai Kiran Bandari - saibandari7@gmail.com
 
-Project Link: 
+Project Link: https://github.com/saibandari7/project.git
