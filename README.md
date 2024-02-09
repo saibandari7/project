@@ -16,7 +16,7 @@ Installation
 Clone the repository to your local machine:
 bash
 Copy code
-git clone https://github.com/yourusername/JavaBankingSystem.git
+git clone 
 Open the project in your preferred Java IDE or compile the code from the command line:
 css
 Copy code
@@ -42,4 +42,4 @@ Distributed under the MIT License. See LICENSE for more information.
 Contact
 Your Name - Sai Kiran Bandari - saibandari7@gmail.com
 
-Project Link: https://github.com/yourusername/JavaBankingSystem
+Project Link: 
